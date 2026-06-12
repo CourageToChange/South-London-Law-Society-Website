@@ -21,10 +21,6 @@ oversee users and casework.
 | Database | MySQL |
 | Data protection | AES encryption |
 
-## About this project
-
-Built as a team software-engineering project for a real client brief. I worked across
-the stack — UI, API endpoints and database — and it sparked the security focus I've
-pursued since (CompTIA Security+, self-hosted hardened home lab).
+---
 
 More of my work: [portfolio](https://github.com/CourageToChange/Portfolio-website) · [profile](https://github.com/CourageToChange)
