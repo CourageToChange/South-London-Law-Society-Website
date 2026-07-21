@@ -1,30 +1,12 @@
-# South London Law Society — Case Management Website
+# South London Law Society Website
 
-A full-stack web app for the South London Law Society. Members of the public submit a
-legal case through the site, solicitors browse what's come in and take cases on, and
-administrators keep an eye on both.
+A university team project. The idea was a case-management website for the South London Law
+Society: members of the public submit a legal case, solicitors browse and pick cases up, and
+administrators oversee the process. We built it with React on the front end, Node and Express
+behind it, and MySQL for storage.
 
-Built as a university project with React on the front end, Node and Express behind it, and
-MySQL underneath. Case details are sensitive, so they're AES-encrypted rather than sitting
-in the database in the clear.
+**This repository only holds the Create React App starter scaffold.** The team's working
+source was never pushed here, so there's nothing in this repo that shows the finished system.
+It's a record that the project happened, not the code.
 
-## What it does
-
-- Structured intake form for submitting a new case
-- Case tracking, so an applicant can see where theirs has got to
-- A queue solicitors can browse and pick cases up from
-- Admin views for managing users and casework
-- AES encryption on the case data
-
-## Stack
-
-| Layer | Technology |
-|---|---|
-| Front end | React.js |
-| Back end | Node.js + Express.js |
-| Database | MySQL |
-| Data protection | AES encryption |
-
----
-
-More of my work: [portfolio](https://noor.noorfamily.uk) · [GitHub profile](https://github.com/CourageToChange)
+More of my work: [noor.noorfamily.uk](https://noor.noorfamily.uk)
